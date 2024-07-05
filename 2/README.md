@@ -206,7 +206,7 @@ Sort succeeded
 
 程序创建了两个文件，`random.in` 和 `sorted.out`，分别存储了随机数和排序后的数据。可见排序成功。
 
-![result](image/实验报告/result.png)
+![result](assets/result.png)
 
 ## 思考题
 

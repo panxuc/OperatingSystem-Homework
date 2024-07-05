@@ -14,7 +14,7 @@
 
 使用流程图描述该银行家如下：
 
-![flowchart](flowchart.png)
+![flowchart](assets/flowchart.png)
 
 ### 银行家算法实现
 
